@@ -5,7 +5,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content=
 		"width=device-width, initial-scale=1.0">
-	<title>Hello Devops</title>
+	<title>Hello</title>
 	<style>
 		* {
 			padding: 0;
@@ -61,7 +61,7 @@
 </div>
 	<div class="container">
 		<div class="row">
-			<span class="text1">Hello playbook!!!!!!</span>
+			<span class="text1">Hello devops</span>
 			<span class="text2">learning Devops really fun!!!!</span>
 			
 		</div>
