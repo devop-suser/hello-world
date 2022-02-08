@@ -61,8 +61,8 @@
 </div>
 	<div class="container">
 		<div class="row">
-			<span class="text1">Hello devops!IIIII</span>
-			<span class="text2">learning Devops really fun!!!!AAAAAAAAAAAAAAAAAA</span>
+			<span class="text1">Hello DEVOPSevops!</span>
+			<span class="text2">learning Devops really fun!!!!</span>
 			
 		</div>
 	</div>
