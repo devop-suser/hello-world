@@ -36,7 +36,7 @@
 			font-weight: 700;
 			letter-spacing: 8px;
 			margin-bottom: 20px;
-			background: yellowgreen;
+			background: pink;
 			position: relative;
 			animation: text 3s 1;
 		}
