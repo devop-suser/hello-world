@@ -14,7 +14,7 @@
 		}
 
 		body {
-			background: yellowgreen;
+			background: green;
 		}
 
 		.container {
@@ -36,7 +36,7 @@
 			font-weight: 700;
 			letter-spacing: 8px;
 			margin-bottom: 20px;
-			background: pink;
+			background: yellogreen;
 			position: relative;
 			animation: text 3s 1;
 		}
