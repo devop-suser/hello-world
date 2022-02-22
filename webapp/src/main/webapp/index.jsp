@@ -55,7 +55,7 @@
 <div class="container">
   <div class="row">
    
-      <h3 class="animate-charcter">Devops. </h3>
+      <h3 class="animate-charcter">Devopsqqq. </h3>
     
   </div>
 </div>
