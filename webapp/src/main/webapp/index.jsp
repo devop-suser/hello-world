@@ -55,14 +55,14 @@
 <div class="container">
   <div class="row">
    
-      <h3 class="animate-charcter">Devopsqqq. </h3>
+      <h3 class="animate-charcter">************ </h3>
     
   </div>
 </div>
 	<div class="container">
 		<div class="row">
-			<span class="text1">Hello ! WELCOME TO DEVOPS@@ Hello from github </span>
-			<span class="text2">Learning Devops is really fun!Hell</span>
+			<span class="text1">Hello ! WELCOME TO DEVOPS@</span>
+			<span class="text2">Learning Devops is really fun</span>
 			
 		</div>
 	</div>
