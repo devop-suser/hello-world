@@ -62,7 +62,7 @@
 	<div class="container">
 		<div class="row">
 			<span class="text1">Hello ! WELCOME TO DEVOPS@@ Hello from github </span>
-			<span class="text2">Learning Devops is really fun!Hell@@</span>
+			<span class="text2">Learning Devops is really fun!Hell</span>
 			
 		</div>
 	</div>
