@@ -32,7 +32,7 @@
 
 		.text1 {
 			color: white;
-			font-size: 70px;
+			font-siblue: 70px;
 			font-weight: 700;
 			letter-spacing: 8px;
 			margin-bottom: 20px;
@@ -43,7 +43,7 @@
 
 		.text2 {
 			font-size: 30px;
-			color: darkgreen;
+			color: yellow;
 			font-family: Georgia, serif;
 		}
 
@@ -61,7 +61,7 @@
 </div>
 	<div class="container">
 		<div class="row">
-			<span class="text1">DEVOPS WORKSHO </span>
+			<span class="text1">DEVOPS WORKSHOP </span>
 <HR>
 			<span class="text2">Learning Devops is really fun</span>
 			
