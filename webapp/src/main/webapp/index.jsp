@@ -63,7 +63,7 @@
 		<div class="row">
 			<span class="text1">DEVOPS WORKSHOP </span>
 <HR>
-			<span class="text2">Hello ..WELCOME TO DEVOPS SESSIONn</span>
+			<span class="text2">Hello ..WELCOME TO DEVOPS SESSION</span>
 			
 		</div>
 	</div>
