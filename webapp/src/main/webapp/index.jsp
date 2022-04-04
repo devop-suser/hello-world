@@ -194,7 +194,7 @@ body {
 
 <body>
   <header class="header">
-    <a href="#" class="logo">Developer</a>
+    <a href="#" class="logo">Welcome To Devops workshop</a>
     <nav class="nav-items">
       <a href="#">Home</a>
       <a href="#">About</a>
