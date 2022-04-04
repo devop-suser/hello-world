@@ -2,73 +2,70 @@
 <html lang="en">
 
 <head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content=
-		"width=device-width, initial-scale=1.0">
-	<title>Hello devops</title>
-	<style>
-		* {
-			padding: 0;
-			margin: 0;
-			font-family: sans-serif;
-		}
-
-		body {
-			background: green;
-		}
-
-		.container {
-			text-align: center;
-			position: absolute;
-			top: 50%;
-			left: 50%;
-			transform: translate(-50%, -50%);
-			width: 100%;
-		}
-
-		.container span {
-			display: block;
-		}
-
-		.text1 {
-			color: white;
-			font-siblue: 70px;
-			font-weight: 700;
-			letter-spacing: 8px;
-			margin-bottom: 20px;
-			background: yellogreen;
-			position: relative;
-			animation: text 3s 1;
-		}
-
-		.text2 {
-			font-size: 30px;
-			color: yellow;
-			font-family: Georgia, serif;
-		}
-
-		
-	</style>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Simple HTML HomePage</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
 </head>
 
 <body>
-<div class="container">
-  <div class="row">
-   
-      <h3 class="animate-charcter">************ </h3>
-    
-  </div>
-</div>
-	<div class="container">
-		<div class="row">
-			<span class="text1">DEVOPS WORKSHOP </span>
-<HR>
-			<span class="text2">Hello ..WELCOME TO DEVOPS SESSION</span>
-			
-		</div>
-	</div>
-	
-
+  <header class="header">
+    <a href="#" class="logo">Developer</a>
+    <nav class="nav-items">
+      <a href="#">Home</a>
+      <a href="#">About</a>
+      <a href="#">Contact</a>
+    </nav>
+  </header>
+  <main>
+    <div class="intro">
+      <h1>WELCOME TO DEVOPS</h1>
+      <p>Love to Do automation.</p>
+      <button>Join me here</button>
+    </div>
+    <div class="achievements">
+      <div class="work">
+        <i class="fas fa-atom"></i>
+        <p class="work-heading">Projects</p>
+        <p class="work-text">I have worked on many projects and I am very proud of them. I am a very good developer and I am always looking for new projects.</p>
+      </div>
+      <div class="work">
+        <i class="fas fa-skiing"></i>
+        <p class="work-heading">Skills</p>
+        <p class="work-text">I have a lot of skills and I am very good at them. I am very good at programming and I am always looking for new skills.</p>
+      </div>
+      <div class="work">
+        <i class="fas fa-ethernet"></i>
+        <p class="work-heading">Network</p>
+        <p class="work-text">I have a lot of network skills and I am very good at them. I am very good at networking and I am always looking for new network skills.</p>
+      </div>
+    </div>
+    <div class="about-me">
+      <div class="about-me-text">
+        <h2>About Me</h2>
+        <p>I am a web developer and I love to create websites. I am a very good developer and I am always looking for new projects. I am a very good developer and I am always looking for new projects.</p>
+      </div>
+      <img src="https://images.unsplash.com/photo-1596495578065-6e0763fa1178?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80" alt="me">
+    </div>
+  </main>
+  <footer class="footer">
+    <div class="copy">&copy; 2022 Developer</div>
+    <div class="bottom-links">
+      <div class="links">
+        <span>More Info</span>
+        <a href="#">Home</a>
+        <a href="#">About</a>
+        <a href="#">Contact</a>
+      </div>
+      <div class="links">
+        <span>Social Links</span>
+        <a href="#"><i class="fab fa-facebook"></i></a>
+        <a href="#"><i class="fab fa-twitter"></i></a>
+        <a href="#"><i class="fab fa-instagram"></i></a>
+      </div>
+    </div>
+  </footer>
 </body>
 
 </html>
