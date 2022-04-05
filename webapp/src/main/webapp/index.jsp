@@ -194,7 +194,8 @@ body {
 
 <body>
   <header class="header">
-    <a href="#" class="logo">Welcome To Devops workshop</a>
+    <marquee behavior="scroll" direction="right"><a href="#" class="logo">Welcome To Devops workshop</a></marquee>
+    
     <nav class="nav-items">
       <a href="#">Home</a>
       <a href="#">About</a>
